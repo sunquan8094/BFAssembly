@@ -1,0 +1,8 @@
+*.java
+*.o
+*.asm
+*.class
+*.tokens
+hello
+echo2
+.DS_Store
