@@ -9,6 +9,10 @@ You can probably find instructions on how to install the following quite easily 
 - NASM
 - ANTLR v4.5.3
 
+Running
+---
+Run the Makefile. If everything goes well, you should get two executables called `echo2` and `hello`. You can try this with your other BF files as well.
+
 Pull Requests
 ---
 Feel free to contribute with a pull request if you think you can do it better.
